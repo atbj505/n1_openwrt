@@ -17,7 +17,7 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-homeproxy
-svn co https://github.com/immortalwrt/luci/trunk/libs/luci-lib-base luci-lib-base
-git clone https://github.com/immortalwrt/homeproxy.git luci-app-homeproxy
-sed -i 's|luci-lib-base|luci-base|g' luci-app-homeproxy/Makefile
+#homeproxy
+#svn co https://github.com/immortalwrt/luci/trunk/libs/luci-lib-base luci-lib-base
+#git clone https://github.com/immortalwrt/homeproxy.git luci-app-homeproxy
+#sed -i 's|luci-lib-base|luci-base|g' luci-app-homeproxy/Makefile
