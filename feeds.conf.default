@@ -10,3 +10,4 @@ src-git helloworld https://github.com/fw876/helloworld.git;main
 #src-link custom /usr/src/openwrt/custom-feed
 #src-git small https://github.com/kenzok8/small
 src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git homeproxy https://github.com/immortalwrt/homeproxy.git
